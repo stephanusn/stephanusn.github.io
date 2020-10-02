@@ -7,7 +7,7 @@ darkmode: true
 name: Stephanus Nugraha
 title: DevOps Engineer
 email: gmail@stephanusnugraha.com
-website: stephanusnugraha.com
+#website: stephanusnugraha.com
 
 # Social links
 #twitter_username: -
@@ -28,10 +28,13 @@ about_content: | # this will include new lines to allow paragraphs
   I love automation and integrate them with modern technology. I create yaml, bash, or also python to make it all automate. 
   DevOps engineering is a never-ending puzzle that I am passionately engaged in solving. I have been obsessed with the idea of using automation pipeline to make developer life more fun and easier :)
 
-  I enjoy with Kubernetes, GCP, AWS, Ansible, Terraform, Vault, Jenkins, Istio and some application to make the great pipeline.
-  Versioning tools like Git, GitHub, Bitbucket.
-  Security tools like Sonarqube, Nexus, DependencyCheck, OwaspZAP, Trivy.
-  Observability tools like Prometheus - Grafana and ElasticStack
+  I enjoy: Kubernetes, GCP, AWS, Ansible, Terraform, Vault, Jenkins, Istio and some application to make the great pipeline.
+
+  Versioning tools: Git, GitHub, Bitbucket.
+
+  Security tools: Sonarqube, Nexus, DependencyCheck, OwaspZAP, Trivy.
+
+  Observability tools: Prometheus - Grafana and ElasticStack
 
 # Projects Section
 # projects_title: Projects
@@ -40,16 +43,15 @@ about_content: | # this will include new lines to allow paragraphs
 # experience_title: Experience
 
 # Education Section
-# educaton_title: Education
+educaton_title: Certification
 
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Alongside my interests in DevOps and Cloud Native some of my other interests and hobbies are:
+   - Spend time with my family :)
+   - Watching (not doing) Football and Dota2
+   - Read, read and read
 
 # Footer
 footer_show_references: true
