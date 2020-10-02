@@ -4,6 +4,34 @@
   job_title: Senior DevOps Engineer
   dates: April 2020 - Present
   description: | # this will include new lines to allow paragraphs
-    - Docker Kubernetes Helm Jenkins Nexus Prometheus Grafana ElasticStack Istio Vault BitBucket Jira Wazuh
+    - Docker, Kubernetes, Helm, Jenkins, Nexus, Prometheus-Grafana, ElasticStack, Istio, Vault, BitBucket, Jira, Wazuh
 
     - Security tools integrate with pipeline CI-CD: Sonarqube, Dependency Check, OwaspZAP, Aqua Micro Scanner
+
+- layout: left
+  company: TOKENOMY.COM
+  link: tokenomy.com
+  job_title: Senior DevOps Engineer
+  dates: January 2019 - April 2020
+  description: | # this will include new lines to allow paragraphs
+    - Manage Pipeline: GitHub > Jenkins > Unit Test > Ansible > GKE > CloudStorage > Slack
+
+    - Another Tools: Prometheus-Grafana, ElasticStack, Stackdriver GCP
+
+- layout: left
+  company: iLotte.com
+  link: ilotte.com
+  job_title: Supervisor Infrastructure & DevOps
+  dates: February 2017 - November 2018
+  description: | # this will include new lines to allow paragraphs
+    - Manage Pipeline: SVN > Jenkins > Sonarqube > CodeBuild > Lambda > CodeDeploy > EC2
+
+    - Another Tools: CloudWatch-Grafana
+
+- layout: left
+  company: RALALI.COM
+  link: ralali.com
+  job_title: Supervisor Network & Infrastructure
+  dates: May 2016 - February 2017
+  description: | # this will include new lines to allow paragraphs
+    - Manage Network and Infrastructure
