@@ -1,6 +1,7 @@
 # Site
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
+darkmode: true
 
 # Personal info
 name: Stephanus Nugraha
@@ -24,9 +25,13 @@ linkedin_username: stephanusnugraha
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  I love automation and integrate them with modern technology. I create yaml, bash, or also python to make it all automate. 
+  DevOps engineering is a never-ending puzzle that I am passionately engaged in solving. I have been obsessed with the idea of using automation pipeline to make developer life more fun and easier :)
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I enjoy with Kubernetes, GCP, AWS, Ansible, Terraform, Vault, Jenkins, Istio and some application to make the great pipeline.
+  Versioning tools like Git, GitHub, Bitbucket.
+  Security tools like Sonarqube, Nexus, DependencyCheck, OwaspZAP, Trivy.
+  Observability tools like Prometheus - Grafana and ElasticStack
 
 # Projects Section
 # projects_title: Projects
