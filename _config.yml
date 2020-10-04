@@ -16,7 +16,7 @@ github_username:  stephanusn
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: -
-linkedin_username: stephanusnugraha
+linkedin_username: stephanusnugraha-537581102
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
@@ -25,16 +25,23 @@ linkedin_username: stephanusnugraha
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I love automation and integrate them with modern technology. I create yaml, bash, or also python to make it all automate. 
-  DevOps engineering is a never-ending puzzle that I am passionately engaged in solving. I have been obsessed with the idea of using automation pipeline to make developer life more fun and easier :)
+  I love automation and integrate them with modern technology. Create a YAML file, bash, or python script to make it all automated.
+  
+  DevOps engineering is a never-ending puzzle that I am passionately engaged in solving. I have been obsessed with the idea of using automation pipeline to make developer more fun and easier :)
 
-  I enjoy: Kubernetes, GCP, AWS, Ansible, Terraform, Vault, Jenkins, Istio and some application to make the great pipeline.
+  Interest with Kubernetes, Helm, Ansible, Terraform, Jenkins, and some applications to make a great pipeline
 
-  Versioning tools: Git, GitHub, Bitbucket.
+  Cloud: GCP, AWS
 
-  Security tools: Sonarqube, Nexus, DependencyCheck, OwaspZAP, Trivy.
+  Mesh: Istio
 
-  Observability tools: Prometheus - Grafana and ElasticStack
+  Versioning tools: Git, GitHub, Bitbucket
+
+  Secret tools: Vault Hashicorp
+
+  Security tools: Sonarqube, Nexus, DependencyCheck, OwaspZAP
+
+  Observability tools: Prometheus-Grafana, ElasticStack
 
 # Projects Section
 # projects_title: Projects
@@ -51,7 +58,7 @@ more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in DevOps and Cloud Native some of my other interests and hobbies are:
    - Spend time with my family :)
    - Watching (not doing) Football and Dota2
-   - Read, read and read
+   - Read books
 
 # Footer
 footer_show_references: true
