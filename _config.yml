@@ -56,7 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
 more_title: Certification
 more_content: | # this will include new lines to allow paragraphs
   I have some certificate:
-   - [Certification Kubernetes Administration] (https://www.youracclaim.com/badges/300c2398-0915-4a8d-8c7c-254e228ba877/public_url)
+   - <a href="https://www.youracclaim.com/badges/300c2398-0915-4a8d-8c7c-254e228ba877/public_url">Certification Kubernetes Administration</a>
    - [Certification Kubernetes Developer Application] (https://www.youracclaim.com/badges/e2c915d6-c62d-49b1-b2f2-ebf3ee22145d/public_url)
    - [Hashicorp Certified Vault Associate] (https://www.youracclaim.com/badges/c0d97ef3-6ea1-4982-b817-19a47b0bc2a5/public_url)
    - [AWS Certified SysOps Administrator - Associate] (https://www.youracclaim.com/badges/98dac69d-c241-43be-9116-b6315dc9c4df/public_url)
