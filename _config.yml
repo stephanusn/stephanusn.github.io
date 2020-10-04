@@ -50,15 +50,14 @@ about_content: | # this will include new lines to allow paragraphs
 # experience_title: Experience
 
 # Education Section
-educaton_title: Certification
+# educaton_title: Certification
 
 # More Section
-# more_title: A Little More About Me
+more_title: Certification
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in DevOps and Cloud Native some of my other interests and hobbies are:
-   - Spend time with my family :)
-   - Watching (not doing) Football and Dota2
-   - Read books
+  I have some certificate:
+   - Certification Kubernetes Administration
+   - Certification Kubernetes Developer Application
 
 # Footer
 footer_show_references: true
